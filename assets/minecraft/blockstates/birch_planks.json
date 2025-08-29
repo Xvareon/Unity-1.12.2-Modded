@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "birch_planks", "weight": 2 },
+            { "model": "birch_planks1", "weight": 1 },
+            { "model": "birch_planks2", "weight": 1 },
+            { "model": "birch_planks3", "weight": 1 },
+            { "model": "birch_planks4", "weight": 1 },
+            { "model": "birch_planks5", "weight": 1 },
+            { "model": "birch_planks6", "weight": 1 },
+            { "model": "birch_planks7", "weight": 1 },
+            { "model": "birch_planks8", "weight": 1 },
+            { "model": "birch_planks9", "weight": 1 },
+            { "model": "birch_planks10", "weight": 1 },
+            { "model": "birch_planks11", "weight": 1 },
+            { "model": "birch_planks12", "weight": 1 },
+            { "model": "birch_plankspp", "weight": 1 }
+        ]
+    }
+}

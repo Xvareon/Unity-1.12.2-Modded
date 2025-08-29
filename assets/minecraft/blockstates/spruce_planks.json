@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "spruce_planks", "weight": 2 },
+            { "model": "spruce_planks1", "weight": 1 },
+            { "model": "spruce_planks2", "weight": 1 },
+            { "model": "spruce_planks3", "weight": 1 },
+            { "model": "spruce_planks4", "weight": 1 },
+            { "model": "spruce_planks5", "weight": 1 },
+            { "model": "spruce_planks6", "weight": 1 },
+            { "model": "spruce_planks7", "weight": 1 },
+            { "model": "spruce_planks8", "weight": 1 },
+            { "model": "spruce_planks9", "weight": 1 },
+            { "model": "spruce_planks10", "weight": 1 },
+            { "model": "spruce_planks11", "weight": 1 },
+            { "model": "spruce_planks12", "weight": 1 },
+            { "model": "spruce_plankspp", "weight": 1 }
+        ]
+    }
+}
