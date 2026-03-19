@@ -3,6 +3,7 @@
 Updates
 ------
 This is a fork of theCyanideX's Unity Resource Pack for Minecraft that updates some modded textures for 1.12.2
+I do not claim any credits for the original work, all credits goes to the original author. This resourcepack is made for the modpack Yellowmoon.
 
 Tutorials
 ------
